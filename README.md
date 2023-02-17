@@ -23,3 +23,13 @@ WHEN I select the intern option
 THEN I am prompted to enter the intern’s name, ID, email, and school, and I am taken back to the menu
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
+
+# Description
+Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
+
+# Instillation
+npm i inquirer@8.2.4
+
+# Mock Up
+https://user-images.githubusercontent.com/118042037/219541157-f919c153-3e0d-4193-8bc3-444e6abdda2e.mp4
+
